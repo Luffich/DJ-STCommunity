@@ -1,4 +1,4 @@
-# DJ STCommunity | Discord бот
+# DJ STCommunity | Русский Музыкальный Discord бот
 
 <p>
 <img src="https://img.shields.io/github/package-json/v/Luffich/DJ-STCommunity" alt="GitHub package.json version" />
